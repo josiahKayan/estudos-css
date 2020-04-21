@@ -1,0 +1,42 @@
+html, body{
+    margin:0;
+    /* padding: 0; */
+    /* box-sizing: border-box; */
+    background: #7159c1;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    
+}
+
+
+div{
+    background-color: chocolate;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+
+    /* Conteúdo */
+    width: 500px;
+    height: 250px;
+
+    /* padding: Preenchimento */
+    padding: 10px ;
+    /* padding-top: 100px;
+    padding-right: 200px;
+    padding-bottom: 500px;
+    padding-left: 500px; */
+
+    /* border: borda */
+    border-left: 10px dotted #FFF;
+    /* border-style: dotted;s */
+    
+
+
+    /* Mudar limite da caixa */
+    /* box-sizing: border-box; */
+}
